@@ -3,11 +3,11 @@ p{
 	text-align: center;
 }
 
-p>a{
+p{
 	color: red;
 }
 
-table{
+li{
 	border: 3px solid #ccc;
 }
 
